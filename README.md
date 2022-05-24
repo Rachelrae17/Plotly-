@@ -5,6 +5,7 @@ Overview
 This project was designed to provide a data dashboard displaying several chart types based on user selected input. Using a simple index page (html and bootstrap) to display the charts, JavaScript powers the event handlers, user input, and chart creation.
 
 Resources
+
 index.html: html, css, js, bootstrap, d3
 style.css: image of bacteria
 data.js: json data (provided)
