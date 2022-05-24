@@ -1,19 +1,24 @@
 # Plotly-
 Belly Button Biodiversity Project 
 Module 12 
+Overview
+This project was designed to provide a data dashboard displaying several chart types based on user selected input. Using a simple index page (html and bootstrap) to display the charts, JavaScript powers the event handlers, user input, and chart creation.
 
-Results: 
-Plotly platform tools helps to create all three of the charts in which were learned and taught in this module. The cool concept about plotly 
-is that you can make and create these charts images without using intense coding which I thought was helpful and understanding of the concepts. 
+Resources
+index.html: html, css, js, bootstrap, d3
+style.css: image of bacteria
+data.js: json data (provided)
+charts.js: d3, plotly
 
-Deliverable 1 - Was the task of creating a Horizontal chart. This was made to show the bacteria in a descending order and display the data in this form. 
+Results
+The index page is simple and clean, thanks to Bootstrap's grid system. The event handlers (d3) make selecting the sample from the dropdown box easy and highly responsive. Plotly allows for the creation of the three charts in a straightforward fashion with minimal coding.
 
-Deliverable 2- Was the task of creating a Bubble Chart was my favorite because I thought it was more fun to create abd more intresting to display and look at and read 
-from a chart form. 
+The horizontal bar chart caused the most challenge, though not much, in requiring the labels to be reversed so that the bacteria were presented in descending order - needing to reverse both the data and the labels.
 
-Deliverable 3- Was thr task of creating a Gauge Chart is a powerful way of presenting a small amount of data into a chart form. 
+The gauge chart is, at this point, a fancy way of presenting a single data point. Such a chart could present more information, but it currently displays more chrome than data.
 
-Summary: 
-This project was meant to be able to show the data in different models of charts and that you learn how to create them and read and understand the 
-data that is presented in the chart that you would be able to grasp the concept and than be able to make a conclusion based off that charts data. 
+The bubble chart can be very useful. At the moment, the data presented is not particularly salient for the viewer. What is being presented is not entirely clear and the viewer needs to decipher what information is being presented. As this project is primarily about the process of creating the charts, this is acceptable. If, however, this was for an actual presentation of information, a lot of thought would need to go into making this chart more useful for its audience.
+
+Summary
+This project expands significantly on the previous project and requires an added degree of effort and sophistication in the presentation of the material. Given that each of these projects must be completed within one week, this was a significant and appropriate increase in difficulty. This continues to lay the groundwork for a complete and robust presentation of data.
 
