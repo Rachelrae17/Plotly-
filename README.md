@@ -24,3 +24,6 @@ Summary
 This project expands significantly on the previous project and requires an added degree of effort and sophistication in the presentation of the material. Given that each of these projects must be completed within one week, this was a significant and appropriate increase in difficulty. This continues to lay the groundwork for a complete and robust presentation of data.
 
 ![128790711-b5ab9a9e-6ae0-40d9-b08b-04b0a3e0f5fa](https://user-images.githubusercontent.com/95897182/170299330-109a2f19-47a7-4a29-8090-822d256f96b6.png)
+
+![128790724-815daa87-0967-46fe-8c2d-825e032f2372](https://user-images.githubusercontent.com/95897182/170299628-fc3a60d2-ea22-4a4b-a426-c6e4f43656d2.png)
+
